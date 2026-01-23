@@ -1,4 +1,4 @@
-# Oracle DBA Hands-On Lab – Week 15 (Oracle 19c)
+# Oracle DBA Hands-On Lab (Oracle 19c)
 
 This repository contains my hands-on Oracle DBA lab work (Oracle 19c) completed in my own database environment.  
 The lab focuses on real DBA administrative tasks, including database startup/shutdown, tablespace & datafile management, user creation & privileges, memory/parameter tuning, listener/service configuration, and segment/extent analysis.
