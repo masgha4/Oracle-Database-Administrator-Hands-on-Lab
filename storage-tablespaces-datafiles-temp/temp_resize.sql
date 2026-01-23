@@ -1,0 +1,3 @@
+-- Resize TEMP to 1GB (update path to your tempfile path from DBA_TEMP_FILES)
+-- Example:
+-- ALTER DATABASE TEMPFILE '/u14/oradata/WAHABDB/temp01.dbf' RESIZE 1024M;
