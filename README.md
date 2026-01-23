@@ -112,6 +112,15 @@ This project demonstrates hands-on experience with:
 
 ---
 
+Skills Demonstrated
+- Oracle 19c Administration (startup, storage, users, parameters)
+- SQL troubleshooting and verification queries
+- Listener + service troubleshooting (lsnrctl, service_names)
+- Segment/extent growth analysis
+- Linux server health checks (CPU/memory/disk/iostat)
+
+---
+
 Author
 Muhammad Wahab Asghar
 Aspiring Oracle DBA | Oracle 19c | SQL | Administration | Troubleshooting  
