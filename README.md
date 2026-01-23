@@ -112,12 +112,6 @@ This project demonstrates hands-on experience with:
 
 ---
 
-Reference Document
-This repository is based on the official Oracle Database Hands on Lab document:
-- Oracle Database Hands on Lab.pdf
-
----
-
 Author
 Muhammad Wahab Asghar
 Aspiring Oracle DBA | Oracle 19c | SQL | Administration | Troubleshooting  
