@@ -1,13 +1,13 @@
-## Memory
+Memory
 - `free -h`
 
-## Disk
+Disk
 - `df -h`
 - `lsblk`
 
-## CPU
+CPU
 - `lscpu`
 - `top` or `htop`
 
-## I/O (reads/writes)
+I/O (reads/writes)
 - `iostat -xm 1 5`
