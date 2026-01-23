@@ -6,7 +6,7 @@ SIZE 1G;
 -- Create user
 CREATE USER JOHN IDENTIFIED BY abc123;
 
--- Grants (lab list)
+-- Grants 
 GRANT connect,
       resource,
       unlimited tablespace,
@@ -19,5 +19,5 @@ TO JOHN;
 -- Set default tablespace
 ALTER USER JOHN DEFAULT TABLESPACE JOHNTBS;
 
--- Grant DBA (lab requirement)
+-- Grant DBA 
 GRANT dba TO JOHN;
